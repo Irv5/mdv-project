@@ -18,7 +18,10 @@ var GolfCourse = 	'Pi\'s Golf Course',
 	ThirdShot = 	FirstHole - Driver - FiveIron - SandWedge
 ;
 
-if (TeeTime === true) {
+		console.log("Added line of code in my branch")
+
+
+/*if (TeeTime === true) {
 	console.log(GolfCourse + " Swing away 1st hole 523 yard par 5.");
 	} else {
 		console.log("Wait for tee time");
@@ -50,7 +53,7 @@ if (TeeTime === true) {
 						
 };
 
-
+*/
 
 
 
